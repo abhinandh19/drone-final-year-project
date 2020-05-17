@@ -1,0 +1,7 @@
+1. (https://codeloop.org/python-firebase-course-for-beginners/) 
+
+using python to store data on firebase using pyrebase library.
+
+youtube link- (https://www.youtube.com/watch?v=VnUXbo8JvvA&t=1566s)
+
+2.
